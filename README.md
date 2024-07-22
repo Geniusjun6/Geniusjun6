@@ -9,6 +9,12 @@
 Node.js를 기반으로 웹 애플리케이션 설계에 관심이 있습니다. 
 <br />
 
+ ✉ Email : chzhgod@naver.com<br>
+
+ <br />
+ <br />
+
+
 
 # 💻 Skill
 <div dir='auto'>
@@ -42,6 +48,9 @@ Node.js를 기반으로 웹 애플리케이션 설계에 관심이 있습니다.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
+
+ <br />
+ <br />
 
 # 💪 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geniusjun6&show_icons=true&theme=gruvbox_light&hide_rank=true)
